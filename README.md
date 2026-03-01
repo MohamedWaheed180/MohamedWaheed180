@@ -3,7 +3,7 @@
 
 > "Man is but a legacy." — **الإنسان ما هو إلا أثر**
 
-I am a **Data Intelligence Engineer** at **Silicon Expert**, where I bridge the gap between complex data architecture and executive decision-making. My journey evolved from deep-dive data analysis to architecting **Generative AI ecosystems**. I specialize in building RAG-powered pipelines and **Intelligent Dashboards** that transform raw SQL/Oracle data into clear, actionable insights, allowing stakeholders to make high-stakes decisions with confidence.
+Dedicated Data Intelligence Engineer specializing in Data Automation and Advanced Analytics. Expert in transforming complex datasets into actionable insights using SQL, Python, and .NET to drive business growth. Currently architecting Generative AI and RAG-powered pipelines to evolve traditional reporting into intelligent, automated data ecosystems. Driven by a passion for process innovation and high-stakes decision support.
 
 ---
 ## 🛠️ My Tech Universe
@@ -56,11 +56,11 @@ I am a **Data Intelligence Engineer** at **Silicon Expert**, where I bridge the 
 ---
 
 ## 📈 Engineering Impact
-* **🤖 RAG Orchestration:** Engineered end-to-end RAG pipelines using **Pinecone** and **Text-Embedding models** for conversational data access.
-* **📊 Insight-Driven Dashboards:** Developed **Angular & Power BI** dashboards that visualize complex AI-powered analytics, turning massive datasets into intuitive visual stories.
-* **⚖️ Decision Support Systems:** Created automated reporting tools that provide **Workload Insights**, directly influencing resource allocation and strategic planning.
-* **⚙️ Data Engineering:** Built high-performance ETL workflows using **Python**, **SQL Server**, and **Entity Framework**.
-* **🗣️ Cognitive Features:** Integrated **Speech-to-Text** and **Multilingual AI** to enhance user interaction with global data.
+⚙️ Data Automation: Architecting robust ETL processes and automated reporting using Python and SQL Server to eliminate manual data bottlenecks.
+📊 Advanced Analytics: Developing high-impact Power BI and Angular dashboards that provide real-time visibility into complex business workloads.
+🤖 Emerging AI Systems: Growing my expertise in Generative AI by implementing initial RAG pipelines and Vector Databases (Pinecone) to enhance data retrieval.
+🗄️ Enterprise Engineering: Leveraging C# (.NET) and Entity Framework to build scalable backends that support data-driven decision-making.
+💡 Decision Support: Translating raw technical data into strategic "Workload Insights" that empower stakeholders to act with confidence.
 
 ---
 
