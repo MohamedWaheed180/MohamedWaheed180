@@ -56,11 +56,11 @@ Dedicated Data Intelligence Engineer specializing in Data Automation and Advance
 ---
 
 ## 📈 Engineering Impact
-⚙️ Data Automation: Architecting robust ETL processes and automated reporting using Python and SQL Server to eliminate manual data bottlenecks.
-📊 Advanced Analytics: Developing high-impact Power BI and Angular dashboards that provide real-time visibility into complex business workloads.
-🤖 Emerging AI Systems: Growing my expertise in Generative AI by implementing initial RAG pipelines and Vector Databases (Pinecone) to enhance data retrieval.
-🗄️ Enterprise Engineering: Leveraging C# (.NET) and Entity Framework to build scalable backends that support data-driven decision-making.
-💡 Decision Support: Translating raw technical data into strategic "Workload Insights" that empower stakeholders to act with confidence.
+* ⚙️ **Data Automation:** Architecting robust ETL processes and automated reporting using Python and SQL Server to eliminate manual data bottlenecks.
+* 📊 **Advanced Analytics:** Developing high-impact Power BI and Angular dashboards that provide real-time visibility into complex business workloads.
+* 🤖 **Emerging AI Systems:** Growing my expertise in Generative AI by implementing initial RAG pipelines and Vector Databases (Pinecone) to enhance data retrieval.
+* 🗄️ **Enterprise Engineering:** Leveraging C# (.NET) and Entity Framework to build scalable backends that support data-driven decision-making.
+* 💡 **Decision Support:** Translating raw technical data into strategic "Workload Insights" that empower stakeholders to act with confidence.
 
 ---
 
