@@ -46,6 +46,8 @@ Dedicated Data Intelligence Engineer specializing in Data Automation and Advance
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="45" alt="selenium logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="git logo" />
+  <img width="12" />
+  <img src="https://images.plot.ly/logo/new-branding/plotly-logomark.png" height="60" alt="plotly logo" />
 </div>
 
 ### 🧠 Core Expertise
